@@ -1,1 +1,2 @@
-this is just a test
+#!/usr/bin/python
+print("hello world")
